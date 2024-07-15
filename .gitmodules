@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Aayush-lad/forge-client
+[submodule "server"]
+	path = server
+	url = https://github.com/Aayush-lad/forge-server
